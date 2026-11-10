@@ -1,6 +1,6 @@
 # Venus Orbiter Thermal Control Design
 
-ME4550 Spacecraft Thermal Controls term project (Fall 2026).
+ME4990 Spacecraft Thermal Controls term project (Fall 2026).
 
 Thermal-control design for a Venus orbiter that maps the surface with radar at 10 m resolution and measures the gravity field. The mission follows Magellan:
 - elliptical polar orbit (294 x 8,540 km) for mapping;
@@ -83,4 +83,4 @@ Full tables: `results/summary.md`.
 
 - D. G. Gilmore (ed.), *Spacecraft Thermal Control Handbook, Vol. I*, 2nd ed., Aerospace Press/AIAA, 2002.
 - NASA NSSDC Venus Fact Sheet; NSSDC Magellan Mission Plan.
-- ME4550 course lectures and worked examples.
+- ME4990 course lectures and worked examples.
